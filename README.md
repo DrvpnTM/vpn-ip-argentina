@@ -1,18 +1,17 @@
-# VPN IP Argentina — Dr VPN
+# VPN IP Argentina — Fast, Secure VPN for Argentina
 
-**VPN IP Argentina** is a fast, secure and free VPN for Android. Get a **Argentina IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Argentina** is a free, open-source, ad-free VPN app for Android, built for users in Argentina. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Argentina (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ar_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-argentina/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Argentina IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Argentina, Argentina VPN, VPN IP Argentina, Argentina IP address, free VPN Argentina, buy VPN Argentina, fast VPN Argentina, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Argentina, free VPN Argentina, fast VPN, VPN IP Argentina, Android VPN, unblock websites Argentina.</sub>
